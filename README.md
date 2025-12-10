@@ -1,4 +1,4 @@
-# Network Traffic Prediction – Stage
+# Network Traffic Prediction
 
 Ce projet a pour objectif de **prédire le trafic réseau** entre une passerelle (Gateway) et un ensemble de stations de travail (Work Stations), simulant différents types de clients (Web, audio/vidéo comme Skype), avec un accès Internet complet.  
 
